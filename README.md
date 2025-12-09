@@ -1,4 +1,6 @@
-## Hi, I'm JB (Jeongbin Kang) 
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&section=header&text=Hi!%20there&fontSize=90&)
+## I'm JB (Jeongbin Kang) 
+
 A React developer passionate about clean UI and constant learning.
 <!--
 **jeongbin-k/jeongbin-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
