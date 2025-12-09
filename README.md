@@ -2,6 +2,11 @@
 ## I'm JB (Jeongbin Kang) 
 
 A React developer passionate about clean UI and constant learning.
+- Builds interactive and intuitive interfaces
+- Works with JavaScript, TypeScript, React, Next.js
+- Uses MySQL & MSSQL for data handling
+- Documents and organizes everything in Notion
+  
 <!--
 **jeongbin-k/jeongbin-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
