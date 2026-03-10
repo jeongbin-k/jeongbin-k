@@ -3,7 +3,7 @@
 
 A React developer passionate about clean UI and constant learning.
 - Builds interactive and intuitive interfaces
-- Works with JavaScript, React, Next.js
+- Works with JavaScript, TypeScript, React
 - Uses MySQL & MSSQL for data handling
 - Documents and organizes everything in Notion
   
