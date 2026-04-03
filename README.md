@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&section=header&text=Hi!%20there&fontSize=90&)
 ## I'm JB (Jeongbin Kang) 
 <!--
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&section=header&text=Hi!%20there&fontSize=90&)
 A React developer passionate about clean UI and constant learning.
 - Builds interactive and intuitive interfaces
 - Works with JavaScript, TypeScript, React
