@@ -6,8 +6,9 @@ A React developer passionate about clean UI and constant learning.
 - Works with JavaScript, TypeScript, React
 - Uses MySQL & MSSQL for data handling
 - Documents and organizes everything in Notion
--->
+
 사용자의 눈과 손이 편안한 UI를 고민하는 프론트엔드 개발자입니다.
+-->
 - 3년 연속 웹 접근성 인증(WA-Watch) 획득 경험을 바탕으로, 모두가 평등하게 사용하는 웹을 지향합니다.
 - 단순 구현을 넘어 서비스 운영과 사용자 피드백을 통한 지속적인 개선에 즐거움을 느낍니다.
 - 모든 개발 과정과 학습 내용을 Notion에 기록하고 자산화하여, 동료들과 지식을 나누고 함께 성장하는 것을 즐깁니다.
